@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sqlitemysql</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save">Submit</string>
+    <string name="sync_or_done_icon">sync or done icon</string>
+</resources>
